@@ -7,7 +7,7 @@ fourth = string.gsub(third,"L","W")
 -- will use this cuz cant use a table
 
 local output = io.open("Output.txt", "w")
-output:write(numberfourakaBIGL)
+output:write(fourth)
 output:close()
 
 -- write "furried" file
