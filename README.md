@@ -11,4 +11,4 @@ LuaJIT, LuaU, and even lua on replit
 or just normal lua from the source.
 
 # Python:
-Any Python compiler (official reccommended)
+Any Python compiler (official recommended)
