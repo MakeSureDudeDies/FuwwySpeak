@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/857704069967249449/1039577773267755040/IMG_20221108_172907.jpg" width=500 height=2500>
+<img src="https://media.discordapp.net/attachments/857704069967249449/1039577773267755040/IMG_20221108_172907.jpg" width=500 height=250>
 
 # FurrySpeak
 
