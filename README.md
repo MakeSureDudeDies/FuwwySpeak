@@ -18,3 +18,7 @@ at https://python.org
 # NodeJS
 The JS file is for NodeJS, download it at
 https://nodejs.org
+
+# Ruby
+The Ruby file can be ran by the official
+compiler, download it at https://
