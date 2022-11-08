@@ -15,10 +15,10 @@ download lua on https://lua.org
 Any Python compiler (official recommended), download it
 at https://python.org
 
-# NodeJS
+# NodeJS:
 The JS file is for NodeJS, download it at
 https://nodejs.org
 
-# Ruby
+# Ruby:
 The Ruby file can be ran by the official
 compiler, download it at https://ruby-lang.org
