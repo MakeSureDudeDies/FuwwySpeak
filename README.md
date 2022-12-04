@@ -14,7 +14,7 @@ or just normal lua from the source.
 download lua on https://lua.org
 
 # Python:
-Any Python ver(official recommended), download it
+Any Python version, download it
 at https://python.org
 
 # NodeJS:
