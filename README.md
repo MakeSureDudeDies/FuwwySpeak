@@ -24,3 +24,6 @@ https://nodejs.org
 # Ruby:
 The Ruby file can be ran by the official
 compiler, download it at https://ruby-lang.org
+
+# Rust:
+Download Rust from https://rust-lang.org
