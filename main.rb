@@ -1,7 +1,7 @@
 # get all files
-text = File.new("Input.txt", "r");
+text = File.new("IO/Input.txt", "r");
 textread = text.read
-output = File.new("Output.txt", "w");
+output = File.new("IO/Output.txt", "w");
 
 # regex start
 replacing = textread.gsub(/[lr]/, "w")
