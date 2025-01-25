@@ -2,7 +2,7 @@ use std::fs;
 fn main() {
     let file_content: String = match fs::read_to_string("IO/Input.txt") {
         Ok(content) => content,
-        _ => panic!("No working"),
+        _ => panic!("Not working"),
     };
     let content: Vec<char> = file_content.chars().collect();
     let mut output: String = String::new();
